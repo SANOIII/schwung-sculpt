@@ -1,0 +1,123 @@
+{
+  "title": "Sculpt",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "4 stereo tracks.",
+        "Each runs:",
+        " Material",
+        " > Granular > Filter",
+        " > Color > Space",
+        "",
+        "4 mods per track,",
+        "32 scenes,",
+        "punch-in FX."
+      ]
+    },
+    {
+      "title": "Navigation",
+      "lines": [
+        "Track btn: track",
+        "Up/Down: track",
+        "Steps 1-8: pages",
+        " MAT GRN FLT COL",
+        " SPC MOD MIX SCN",
+        "Left/Right: subpage",
+        "Menu: quick help"
+      ]
+    },
+    {
+      "title": "Knobs",
+      "lines": [
+        "Knobs: page params",
+        "Shift+turn: fine",
+        "Del+touch: reset",
+        "Mod page: Target",
+        " picks the param",
+        " the mod moves"
+      ]
+    },
+    {
+      "title": "Filter bank",
+      "lines": [
+        "48 resonant bands",
+        "30 Hz - 16 kHz",
+        "",
+        "Morph: LP > BP > HP",
+        "Res: band Q",
+        "Decay: band ringing",
+        " (bells, chimes)",
+        "Pitch: +/-24 st",
+        "Scale: snap bands",
+        " Notes = held keys",
+        " (poly resonator)",
+        "",
+        "Page 2:",
+        " Waves, Rate, Size",
+        " Noise, Texture",
+        " Spread, Env, Slope"
+      ]
+    },
+    {
+      "title": "Playing",
+      "lines": [
+        "Pads: row per track",
+        " (top row = T1)",
+        "Tape: cue slices",
+        "Poly: play voices",
+        "Play: all tracks",
+        "Shift+Track: one",
+        "MIDI ch1-4 = T1-4"
+      ]
+    },
+    {
+      "title": "Recording",
+      "lines": [
+        "Rec: record track",
+        "1st pass = length",
+        " (Quant: bar/beat)",
+        "Rec again: overdub",
+        "Src: Input/Master",
+        "Loop: live input"
+      ]
+    },
+    {
+      "title": "Samples",
+      "lines": [
+        "Material page:",
+        " jog = browse",
+        " click = load",
+        "From UserLibrary/",
+        " Samples (WAV)"
+      ]
+    },
+    {
+      "title": "Performance",
+      "lines": [
+        "Steps 9-12: mutes",
+        "Steps 13-16 (hold):",
+        " Stutter",
+        " Tape stop",
+        " Reverse",
+        " Freeze",
+        "Scenes page:",
+        " tap = recall",
+        " Shift+pad = store",
+        " Del+pad = clear",
+        " Knob 1 = morph"
+      ]
+    },
+    {
+      "title": "Saving",
+      "lines": [
+        "Capture: save",
+        "Recordings go to",
+        " Samples/Sculpt",
+        "Autosave: 2 min",
+        "Back: run in bg",
+        "Shift+Back: quit"
+      ]
+    }
+  ]
+}

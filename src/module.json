@@ -1,0 +1,24 @@
+{
+    "id": "sculpt",
+    "name": "Sculpt",
+    "abbrev": "SCLPT",
+    "version": "0.1.0-alpha",
+    "author": "sanoi",
+    "license": "MIT",
+    "description": "Four-track sculpting sampler: Material, Granular, Filter, Color and Space per track, with modulators, morphing scenes and punch-in FX.",
+    "component_type": "tool",
+    "ui": "ui.js",
+    "dsp": "dsp.so",
+    "api_version": 2,
+    "tool_config": {
+        "interactive": true,
+        "skip_file_browser": true,
+        "overtake": true
+    },
+    "capabilities": {
+        "audio_out": true,
+        "audio_in": true,
+        "midi_in": true,
+        "suspend_keeps_js": true
+    }
+}
