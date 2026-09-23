@@ -14,7 +14,7 @@ Sculpt is a [Schwung](https://schwung.dev) **overtake tool** for Ableton Move. I
 
 ![Sculpt screens (rendered by the headless UI harness)](docs/screens.png)
 
-**▶ Try it in your browser: https://SANOIII.github.io/schwung-sculpt/** (no Move needed)
+
 **Manual:** [MANUAL.md](MANUAL.md) · [PDF](docs/Sculpt-Manual.pdf) · **Download for Move:** [latest release](https://github.com/SANOIII/schwung-sculpt/releases/latest)
 
 Unofficial. It is not affiliated with Torso Electronics, Ableton or the Schwung project.
