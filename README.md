@@ -17,7 +17,6 @@ Sculpt is a [Schwung](https://schwung.dev) **overtake tool** for Ableton Move. I
 
 **Manual:** [MANUAL.md](MANUAL.md) · [PDF](docs/Sculpt-Manual.pdf) · **Download for Move:** [latest release](https://github.com/SANOIII/schwung-sculpt/releases/latest)
 
-Unofficial. It is not affiliated with Torso Electronics, Ableton or the Schwung project.
 
 ## What's in v0.1
 
